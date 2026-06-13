@@ -17,7 +17,7 @@ hello! 😊
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,scikitlearn" />
-  <img src="cuda.svg">
+  <img src="cuda.svg" height="48">
   <img src="https://skillicons.dev/icons?i=linux,github,bash,vim" />
 </div>
 
