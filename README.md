@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="sky.jpg" width="100%" alt="header banner"/>
+    <img src="https://readme-photo-randomizer.vercel.app/api/random-photo" width="100%" alt="header banner"/>
 </div>
 
 <h1 align="left">
@@ -17,7 +17,7 @@ hello! 😊
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,scikitlearn" />
-  <img src="cuda.svg" height="48">
+  <img src="utils/cuda.svg" height="48">
   <img src="https://skillicons.dev/icons?i=linux,github,bash,vim" />
 </div>
 
