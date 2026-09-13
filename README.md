@@ -23,7 +23,6 @@ hello! 😊
 
 <h2 align="left"> ⚙️ - ongoing projects: </h2>
 <div align="left">
-    <br>
     • making improvements to quantum algorithms @ <a href="https://github.com/QUASAR-UFPB">QUASAR</a>
     <br>
     • cooking the best tech-assisted music-composition experience.
