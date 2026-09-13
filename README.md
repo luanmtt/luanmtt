@@ -23,26 +23,25 @@ hello! 😊
 
 <h2 align="left"> ⚙️ - ongoing projects: </h2>
 <div align="left">
-    • GPU accelerated Black Hole simulations in <a href="https://github.com/LuisEd83/Black_Hole">here</a>
     <br>
-    • studying quantum algorithm improvements @ <a href="https://github.com/QUASAR-UFPB">QUASAR</a>
+    • making improvements to quantum algorithms @ <a href="https://github.com/QUASAR-UFPB">QUASAR</a>
     <br>
-    • the best linux/nvim config of all time (dots WIP)
+    • cooking the best tech-assisted music-composition experience.
     <br>
-    • a couple AI tinkering <a href="https://github.com/luanmtt/fragNN">here</a>  and <a href="https://github.com/luanmtt/kiAI">there</a>
+    • a couple AI tinkering <a href="https://github.com/luanmtt/fragNN">here</a> and <a href="https://github.com/luanmtt/kiAI">there</a>
 </div>
 
 <h2 align="left">💡- i want to: </h2>
 <div align="left">
-    ◦ learn qiskit,
-    <br>
-    ◦ learn swe 101,
+    ◦ learn qiskit, pennylane
     <br>
     ◦ make a 50% keyboard project from scratch,
     <br>
-    ◦ master CUDA,
+    ◦ master C.Architecture, CUDA, HPC
     <br>
     ◦ get proficient in Italian 🇮🇹.
+    <br>
+    ◦ learn, learn, learn, learn!!
 </div>
 
 <h2 align="left"> </h2>
